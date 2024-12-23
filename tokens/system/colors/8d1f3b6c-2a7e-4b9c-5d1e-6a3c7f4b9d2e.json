@@ -1,0 +1,13 @@
+{
+    "8d1f3b6c-2a7e-4b9c-5d1e-6a3c7f4b9d2e": {
+      "$type": "color",
+      "$description": "Primary500 Color Description",
+      "$value": "#55dd72",
+      "$extensions": {
+        "com.username.myapp": {
+          "name": "primary500",
+          "reference": "a3f4b23c-6fd1-4e29-8c29-3d8b4e3f4a9c"
+        }
+      }
+    }
+}
