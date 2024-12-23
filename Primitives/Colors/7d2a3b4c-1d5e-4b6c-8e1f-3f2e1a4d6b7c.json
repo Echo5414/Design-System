@@ -1,0 +1,12 @@
+{
+  "7d2a3b4c-1d5e-4b6c-8e1f-3f2e1a4d6b7c": {
+    "$type": "color",
+    "$description": "Secondary Color of App",
+    "$value": "#9771c6",
+    "$extensions": {
+      "com.username.myapp": {
+        "name": "PANDORA"
+      }
+    }
+  }
+}
